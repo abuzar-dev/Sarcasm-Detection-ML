@@ -13,3 +13,15 @@ events.
 There are different trends opening in the era of sentiment analysis, which analyze the attitude and opinion of people in social media, which includes social sites like Facebook,Twitter, blogs, etc. The main aim of sentiment analysis is to identify the polarity (positive, negative or neutral) in a given text. 
 Sarcasm is a special type of sentiment which has the ability to flip the polarity of the given text. Sarcasm is defined as ‘the use of irony to mock or convey contempt’. Sarcasm is a sophisticated form of sentiment expression where speakers express their opinions opposite of what they mean. Sarcasm is a contrast between positive sentiment words and negative situation.To detect sarcastic tweets. Although it does not need an already-built user knowledge base as in the work of Raj a desingu et al. 
 Our approach considers the different types of sarcasm and detects the sarcastic tweets regardless of their owners or their temporal context, with a precision that reaches 91.1%. sarcasm as a form of irony that is intended to express contempt. Since most of the focus on sarcasm is to enhance and the existing automatic sentiment analysis systems, we also use the two terms synonymously.
+
+
+## PROBLEM STATEMENT
+
+
+●	How to use the output of the current one to enhance the performances of sentiment analysis and opinion mining. 
+
+●	The purpose is to find an efficient way to detect sarcastic tweets, and study how to use this information (i.e., whether the tweet is sarcastic or not) to enhance the accuracy of sentiment analysis. 
+
+●	To detect sarcastic comments/statements from large text data. 
+
+●	Sarcasm turns into social violence on social media platforms.
